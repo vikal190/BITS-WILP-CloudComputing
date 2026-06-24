@@ -1,0 +1,21 @@
+Q1. Consider the factors that the data center plans to implement modular growth, the maintenance team has limited personnel, requiring a design that minimizes ongoing management overhead, cost is a critical factor, and data center's initial budget is tight. Suggest which switch location is preferable in such case with proper justification. [3 Marks]
+
+Q2. Differentiate deadlock prevention and dead avoidance. Also give analogy to correlate it with real life events. [3 Marks]
+
+Q3. Explain the concept of hot and cold aisle configurations in data centers. In your answer, discuss a specific use case where this approach is beneficial , outlining the problem it addresses, the mechanism by which it improves data Center efficiency and any potential limitations or challenges that might arise in its implementation. [5 Marks]
+
+Q4. Explain the booting procedure of a virtual machine, specifically focusing on how it the process will start, its interaction with the hypervisor, and the underlying hardware during booting phase? Use appropriate diagram. [5 Marks]
+
+Q5. A company provides a SaaS solution to customers, with varying workloads. The concern is to maintain high performance and ensure a smooth user experience, particularly during peak usage times. Describe and justify the benchmarking tools that can be used to assess the performance parameters required for given conditions. [5 Marks]
+
+Q.6. Consider a system comprised of three processes with the following execution times and periods
+
+Process: P1, P2, P3
+Execution Time (C): 1,1,2
+Period (T): 10,2,5
+
+Give a rate-monotonic-schedule (RMS) for the processes through Gantt Chart and calculate the corresponding processor utilization. [5 Marks]
+
+Q7. Explain four approaches for the implementation of Rate Monotonic Scheduling. Take an example and justify which approach is preferable over others. [7 Marks]
+
+Q8. A technology company needs to establish a data center and will host critical business applications, customer databases, and big data. It aims for a scalable, efficient, and secure data center that meets the company's current and future needs. Compare using Link Aggregation Control Protocol (LACP) and statie Link Aggregation in a data center environment based on the requirements. [7 Marks]

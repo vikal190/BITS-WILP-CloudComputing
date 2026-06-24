@@ -1,0 +1,26 @@
+1. Provide brief response (in 50 words) (2X6 = 12 Marks)
+
+a. Why is software security considered an asymmetric problem?
+
+b. Explain Advanced Persistent Threats with help of examples.
+
+c. Differentiate identifiability and linkability in the context of threats to privacy.
+
+d. How does OWASP SAMM ensure secure software?
+
+e. Briefly explain Secure Logger pattern.
+
+f. Why is taint analysis performed?
+
+2. What are attack vectors and attack surface? Briefly explain 3 common attack vectors. (3 Marks)
+
+3. Compare DevOps and DevSecOps. Provide point-wise answer. (3 Marks)
+
+4. A bank is building a portal to offer online services to customers. Perform threat modeling for
+them and offer recommendations. (5 Marks)
+
+5. How can SQUARE enrich SRS (Software Requirements Specification)? Provide point-wise
+response. (4 Marks)
+
+6. Why the Source Code Analyzers end up having many false positives? Do you prefer to have a
+tool with more false positives or with more false negatives? (3 Marks)

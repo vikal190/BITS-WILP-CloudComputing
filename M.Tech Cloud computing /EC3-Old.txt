@@ -1,0 +1,49 @@
+1. Provide brief answers (in about 50 words): [5 X 2 = 10 Marks]
+a. Briefly explain the implementation pattern ‘Clear Sensitive Information’.
+b. Distinguish contexts for using Fuzz testing and Penetration testing.
+c. Differentiate discretionary and mandatory access control on data.
+d. Differentiate persistent XSS(cross-site scripting) and reflected XSS.
+e. Differentiate operational and technical controls.
+
+2. Provide brief answers (in about 100 words): [2 X 3 = 6 Marks]
+a. Differentiate temporal and spatial memory safety with help of examples.
+b. List and briefly explain major components of the cost of a breach.
+
+3. Compare the utility of Attack Tree, Misuse case, DFD, and Attack Pattern in understanding the
+security of a system. [4 Marks]
+
+4. What are the pros and cons of using open-source software w.r.t. security? How can we address
+security risks of using open-source software? [5 marks]
+
+5. Briefly explain process memory organization for Unix or Windows machine. Identify parts of
+process memory that can potentially be exploited by an attacker. Justify your answer. [5
+Marks]
+
+6. List concerns, if any, with the program segment given below. [5 marks]
+
+void hello_func(char *name)
+{
+char buf[20];
+strcpy(buf, name);
+printf(&quot;Hello %s\n&quot;, buf);
+}
+int main(int argc, char *argv[])
+
+{
+hello_func(argv[1]);
+return 0;
+}
+
+7. You are the Security expert for an ecommerce provider. They maintain their data in an RDBMS.
+They plan to offer self-service feature for product queries. Customers can search for products
+using a variety of criteria. The software assembles appropriate SQL query, executes it, and
+shows results to customers. Prepare a set of guidelines for developers building the functionality
+based on your knowledge of software vulnerabilities. [5 marks]
+
+8. You are a product development organization which needs to regularly release patches for your
+(large number of) customers distributed across the globe. List (and justify) the steps taken by
+you to ensure that your customers receive genuine software. [5 marks]
+
+9. You are the CISO (Chief Information Security Officer) of an organization. List the events (in
+software environment) that you would like to be alerted promptly. Provide a brief justification
+for each event. [5 marks]

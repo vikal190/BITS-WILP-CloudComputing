@@ -1,0 +1,56 @@
+Q1) Which type of the Security tools do you suggest for following examples [5 Marks]
+
+a. An organization has a regulatory body to set up the security rules for network, tools, and processes used in organization. Regulatory body has to observe whether the rule set by them are followed or not using security tool.
+
+b. We are in process to develop web application for an organization. In this web application we have to analyzing each file and displaying the website structure to find vulnerabilities in web application. Which security tool to be integrated in web application.
+
+c. In Net-Banking application we have to provide facility to customer to protect their data from being stolen, altered or compromised. Bank is providing the customer with a virtual key using this virtual key only customer can access the data.
+
+d. An organization want to prevent unauthorized users from accessing the company intranet.
+
+e. Company want to detect the vulnerabilities in a company's network that hackers could exploit with the use of tactics and tools available to them.
+
+
+---
+
+Q2) Access Control, Application Security, Data Protection, Integrity and Authentication are some of the security requirement types. In the following situation identify that which security requirement is applicable? [5 Marks]
+
+a. Prevent unauthorized devices from connecting to a network.
+
+b. Security requirements are built into every stage of the software development lifecycle.
+
+c. Use of Encryption, Threat management, and proper Access control to maintain the data consistency and can only be changed in an approved way.
+
+d. We have to verify a user's identity before accessing the application.
+
+---
+
+Q3) What is Non-Repudiation property in security? Why do we have Non-Repudiation? How do we can achieve Non-Repudiation using audit Trail? (Give example)
+
+---
+
+
+Q4) What is mean by Attack surface in security? Enlist the possible attack surface through which attacker can attack the system? Give an example of any one of the attack surface which leads towards the attack in the system.
+
+
+---
+
+
+Q5) Which is the appropriate Security construct you will prefer in the following situation to avoid the attack on the system with justification. [4 Marks]
+
+a. In Companies human resources department, HR manager might have access to sensitive systems, such as payroll or employee files, that others can't see.
+
+b. In BITS University students can't view certain web pages dedicated to professors and administration.
+
+c. To do private correspondence, I am using one letter is replaced by another letter some fixed number of positions down the alphabet to maintain the confidentiality of correspondence.
+
+d. In the system we have to track system-level events such as user logins, system errors and configuration changes occurred during the use of the system.
+
+---
+
+Q6) In the following situation identify the type of possible vulnerability and suggest possible remedy for the same (8 marks)
+
+a) An attacker attaches their code on top of legitimate website and attacker execute malicious code within a victim browser and getting access to the private website data.
+b) Attacker crack passwords that have been hashed using insecure algorithms such as MD5 or SHA-1
+c) In the URL, goodexample.om/bank.php?q=badexample.om, the application bank.php is accepting the query string q=badexample.com and redirecting to badexample.com
+d) A set of spring boot micro services is called a React application. To make their code immutable, the programmers serialized user states which are passed back and forth with each request.

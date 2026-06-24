@@ -1,0 +1,17 @@
+1. Compare and contrast bare metal servers, virtual machines (VMs), and containers in the context
+of cloud computing. Discuss the advantages and disadvantages of each approach concerning
+resource utilization, scalability, and security. (6 Marks)
+
+2. Outline the six pillars of DevSecOps and their significance in modern software development
+practices. Discuss each pillar individually, explaining how they contribute to integrating security
+into the DevOps workflow. (6 Marks)
+
+3. Explain the risks associated in serverless computing, detail the strategies for mitigating these
+risks, and provide an example illustrating each identified risk. (6 Marks)
+
+4. Define CWPP and its significance in cloud security. Discuss the core functionalities provided by
+CWPP solutions for securing cloud workloads. (6 Marks)
+
+5. In the scenario of logging into the website abc.com, if you encounter a "Login with Google"
+button, illustrate the flow diagram depicting the process of Google authentication. Explain the
+technologies involved and provide a use case diagram to illustrate the process. (6 Marks)
